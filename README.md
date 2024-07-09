@@ -1,8 +1,15 @@
-# Oi eu sou o Philipe
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi,+eu+sou+o+Philipe;Desenvolvimento+WEB;e+Analise+de+Sistemas.;..Bem-vindos+a+minha+página!&center=true&size=30">
+  </a>
+</h3>
 
 - Iniciando na área de desenvolvimento e análise de sistemas
 - Estudando SQL
-
+<a> 
 <div>
     <a href="https://github.com/anuraghazra/">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Philipe&show_icons=true&theme=github_dark_dimmed" media="(prefers-color-scheme:github_dark_dimmed)" /> 
@@ -11,8 +18,9 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipe&show_icons=true&theme=github_dark_dimmed" media="(prefers-color-scheme:github_dark_dimmed)" /> 
     </a>
 </div>
-
+    <div>    
 <div style="display: inline_block"><br>
+    <div>
   <img align="center" alt="Pipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,14 +30,15 @@
 </div>
 
 <picture>
+    <div>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <div/>
 </picture>
 
-
-
-
+<div>
+    <div/>
 <div> 
   <a href="https://www.youtube.com/channel/UCsrypf9qhJcwHvY9vZ4g4ng" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="mailto:pminhaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
