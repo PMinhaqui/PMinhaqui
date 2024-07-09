@@ -1,4 +1,3 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h3 align="center">
@@ -9,7 +8,7 @@
 
 - Iniciando na área de desenvolvimento e análise de sistemas
 - Estudando SQL
-<a> 
+
 <div>
     <a href="https://github.com/anuraghazra/">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Philipe&show_icons=true&theme=github_dark_dimmed" media="(prefers-color-scheme:github_dark_dimmed)" /> 
@@ -18,15 +17,15 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipe&show_icons=true&theme=github_dark_dimmed" media="(prefers-color-scheme:github_dark_dimmed)" /> 
     </a>
 </div>
-    <div>    
+
 <div style="display: inline_block"><br>
-   
   <img align="center" alt="Pipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pipe-RobotFramework" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
   <img align="center" alt="Pipe-Selenium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -35,8 +34,6 @@
 </picture>
 
 <div>
-    <div/>
-<div> 
   <a href="https://www.youtube.com/channel/UCsrypf9qhJcwHvY9vZ4g4ng" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="mailto:pminhaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
