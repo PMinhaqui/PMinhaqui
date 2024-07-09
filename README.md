@@ -18,6 +18,7 @@
     </a>
 </div>
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +40,7 @@
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Sobre Mim
+<h3 align="center"> Sobre Mim </h3>
 
 Iniciei minha carreira na área de representação comercial, fornecendo suporte nas rotinas diárias e monitorando relatórios operacionais. Meu objetivo sempre foi simplificar os processos de vendas, otimizando a gestão de produtos e mercadorias para nossos clientes.
 
@@ -49,16 +50,16 @@ Independentemente do setor em que atuo, sempre me concentro na melhoria contínu
 
 Automação de teste web com Robot Framework, conhecimento em VS Code, HTML, CSS e JavaScript básico.
 
-## Habilidades
+<h3 align="center">🔥 Linguagens & Frameworks & Ferramentas & Habilidades 🔥</h3>
 
-- **Linguagens e Ferramentas:**
-  - Robot Framework
+  - Robot Framework;
   - Visual Studio Code
   - SQL
   - HTML/CSS
   - JavaScript básico
+    
+<h3 align="center">**Habilidades Interpessoais:**</h3>
 
-- **Habilidades Interpessoais:**
   - Resolução de problemas
   - Melhoria contínua
   - Conduta ética e cordial
