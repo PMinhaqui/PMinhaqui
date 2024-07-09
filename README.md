@@ -17,6 +17,8 @@
   <img align="center" alt="Pipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pipe-RobotFramework" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png">
+  <img align="center" alt="Pipe-Selenium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
 </div>
 
 <picture>
@@ -43,11 +45,6 @@ Com formação em Comércio Internacional, atualmente trabalho no setor de Tecno
 Independentemente do setor em que atuo, sempre me concentro na melhoria contínua e na implementação de soluções práticas que simplifiquem e dinamizem os processos empresariais. Sou comprometido com a excelência, buscando não apenas resolver problemas, mas também transformar desafios em oportunidades para alcançar resultados significativos e duradouros, sempre guiado pela ética e cordialidade.
 
 Automação de teste web com Robot Framework, conhecimento em VS Code, HTML, CSS e JavaScript básico.
-
-## Contato
-
-- 📫 Você pode me contatar pelo email: pminhaqui@gmail.com
-- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ## Habilidades
 
