@@ -10,10 +10,10 @@
 - Estudando SQL
 
 <div>
-    <a href="https://github.com/anuraghazra/">
+    <a href="https://github.com/PMinhaqui/">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Philipe&show_icons=true&theme=github_dark_dimmed" media="(prefers-color-scheme:github_dark_dimmed)" /> 
     </a>  
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/PMinhaqui/convoychat">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipe&show_icons=true&theme=github_dark_dimmed" media="(prefers-color-scheme:github_dark_dimmed)" /> 
     </a>
 </div>
