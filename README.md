@@ -8,49 +8,68 @@
 
 ```javascript
 
- Pronomes: { ["Ele"] }
+{
+  "pronomes": ["Ele"],
 
-Sobre mim:  
-Atualmente, trabalho como Analista de Sistemas, com foco em  análise de dados e integração entre sistemas.  
-Tenho experiência em banco de dados SQL e MongoDB (3T), além de trabalhar com ferramentas como Postman, Notepad++ e Visual Studio Code.  
-Com um conhecimento amplo na área de suporte e análise de dados, busco constantemente melhorar processos e implementar soluções práticas para dinamizar fluxos empresariais.  
-Sou certificado em Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23), o que reforça minha capacidade técnica em gestão de dados.  
-Guiado pela ética e cordialidade, transformo desafios complexos em oportunidades de inovação e melhoria contínua.  
+  "sobre_mim": {
 
-Tecnologias e Ferramentas: { 
-  ["SQL", "XML", "MongoDB (3T)", "Postman", "Notepad++", "VS Code"] 
+"descricao": "Sou Analista de Sistemas com experiência em análise de dados, suporte técnico e automação de processos.
+Minha especialidade é o desenvolvimento de soluções eficientes e inovadoras por meio da administração de bancos de dados como SQL e MongoDB (3T),
+ além de ferramentas como Postman, Notepad++, Visual Studio Code e soluções de Robotic Process Automation (RPA).",
+
+"expertise": "Tenho expertise na automação de testes, utilizando Robot Framework e SeleniumLibrary, com foco na garantia de qualidade
+e na eficiência operacional dos sistemas. Além disso, sou habilidoso na gestão de fluxos de trabalho e tickets utilizando JIRA Service Manager,
+ o que me permite otimizar o processo de atendimento e resolução de demandas.",
+
+"certificacao": "Certificado em Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23), estou constantemente aprimorando minhas habilidades técnicas
+ e estratégicas para fornecer soluções ágeis e alinhadas aos objetivos de negócios.",
+
+"abordagem": "Com uma abordagem orientada à melhoria contínua e à excelência operacional, busco transformar desafios técnicos em oportunidades para inovação e crescimento."
+  },
+
+  "tecnologias_e_ferramentas": [
+    "SQL", "XML", "MongoDB (3T)", "Postman", "Notepad++", "Visual Studio Code", "RPA", "R", "JIRA Service Manager", "Robot Framework", "SeleniumLibrary"
+  ],
+
+  "certificacoes": [
+    "Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)"
+  ],
+
+  "habilidades_tecnicas": [
+    "Administração de Dados", 
+    "Análise de Logs", 
+    "Automação de Processos (RPA)", 
+    "Modelagem e Estatística com R", 
+    "Gestão de Tickets e Demandas com JIRA Service Manager", 
+    "Automação de Testes com Robot Framework e SeleniumLibrary"
+  ],
+
+  "habilidades_interpessoais": [
+    "Resolução de Problemas", 
+    "Melhoria Contínua", 
+    "Conduta Ética e Cordial"
+  ],
+
+  "foco_atual": [
+    "Aprimoramento em Análise de Sistemas", 
+    "Gestão de Dados", 
+    "Automação de Processos", 
+    "Testes Automatizados"
+  ],
+
+  "curiosidade": [
+    "Sou apaixonado por surf e viagens, sempre em busca de novas experiências que ampliem minha perspectiva pessoal e profissional."
+  ],
+
+  "Dados Complementares": {
+    "hora_local": "América do Sul/Brasil",
+    "linguagens_programacao": ["Python", "JavaScript", "R"],
+    "editores": ["Visual Studio Code", "Notepad++"],
+    "sistema_operacional": "Windows"
+  }
 }
 
-Certificações: { 
-  ["Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)"] 
-}
 
-Habilidades Técnicas: { 
-  ["Administração de Dados", "Análise de Logs", "Automação de Processos"] 
-}
-
-Habilidades Interpessoais: { 
-  ["Resolução de Problemas", "Melhoria Contínua", "Conduta Ética e Cordial"] 
-}
-
-Foco Atual: { 
-  ["Aprimoramento em Análise de Sistemas e Gestão de Dados"] 
-}
-
-Curiosidade: { 
-  ["Sou apaixonado por surf e viagens, sempre em busca de novas experiências."] 
-}
-
-🕑 Hora local: [América do Sul/Brasil]
-
-💬 Linguagens de Programação: 
-[Python]; [JavaScript]
-
-🔥 Editores: 
-[VS Code]; [Notepad++]
-
-💻 Operating System: 
-[Windows]              
 };
 ```
 <div>
