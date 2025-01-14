@@ -13,21 +13,32 @@
 
 ## Sobre Mim
 
-Atualmente, sou **Analista de Sistemas**, especializado em analisar e resolver problemas técnicos, além de desenvolver e gerenciar bancos de dados **SQL** e **MongoDB**. Também gerencio incidentes via **JIRA**, garantindo o cumprimento de prazos e padrões de qualidade. Minha colaboração com equipes de desenvolvimento visa transformar demandas em soluções eficazes e inovadoras.
+Atualmente, sou **Analista de Sistemas**, especializado em analisar e resolver problemas técnicos, além de desenvolver
+ e gerenciar bancos de dados **SQL** e **MongoDB**. Também gerencio incidentes via **JIRA**, garantindo o cumprimento
+ de prazos e padrões de qualidade. Minha colaboração com equipes de desenvolvimento visa transformar demandas em
+ soluções eficazes e inovadoras.
 
-Minha especialidade é o desenvolvimento de soluções eficientes e inovadoras por meio da administração de bancos de dados como **SQL** e **MongoDB (3T)**. Além disso, utilizo ferramentas como **Postman**, **Notepad++**, **Visual Studio Code** e soluções de **Robotic Process Automation (RPA)** para otimizar processos e resultados.
+Minha especialidade é o desenvolvimento de soluções eficientes e inovadoras por meio da administração de
+bancos de dados como **SQL** e **MongoDB (3T)**. Além disso, utilizo ferramentas como **Postman**, **Notepad++**,
+ **Visual Studio Code** e soluções de **Robotic Process Automation (RPA)** para otimizar processos e resultados.
 
 ## Expertise
 
-Tenho expertise na automação de testes, utilizando **Robot Framework** e **SeleniumLibrary**, com foco na garantia de qualidade e na eficiência operacional dos sistemas. Além disso, sou habilidoso na gestão de fluxos de trabalho e tickets utilizando **JIRA Service Manager**, o que me permite otimizar o processo de atendimento e resolução de demandas.
+Tenho expertise na automação de testes, utilizando **Robot Framework** e **SeleniumLibrary**, com foco na garantia
+ de qualidade e na eficiência operacional dos sistemas. Além disso, sou habilidoso na gestão de fluxos de trabalho
+ e tickets utilizando **JIRA Service Manager**, o que me permite otimizar o processo de atendimento e resolução
+ de demandas.
 
 ## Certificação
 
-Certificado em **Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)**, estou constantemente aprimorando minhas habilidades técnicas e estratégicas para fornecer soluções ágeis e alinhadas aos objetivos de negócios.
+Certificado em **Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)**, estou constantemente
+aprimorando minhas habilidades técnicas e estratégicas para fornecer soluções ágeis e alinhadas aos objetivos
+ de negócios.
 
 ## Abordagem
 
-Com uma abordagem orientada à **melhoria contínua** e à **excelência operacional**, busco transformar desafios técnicos em oportunidades para inovação e crescimento.
+Com uma abordagem orientada à **melhoria contínua** e à **excelência operacional**, busco transformar desafios
+ técnicos em oportunidades para inovação e crescimento.
 
 ---
 
@@ -73,7 +84,8 @@ Com uma abordagem orientada à **melhoria contínua** e à **excelência operaci
 
 ## Curiosidade
 
-Sou apaixonado por **surf** e **viagens**, sempre em busca de novas experiências que ampliem minha perspectiva pessoal e profissional.
+Sou apaixonado por **surf** e **viagens**, sempre em busca de novas experiências que ampliem minha perspectiva
+ pessoal e profissional.
 
 ---
 
