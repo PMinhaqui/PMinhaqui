@@ -8,69 +8,82 @@
 
 ```javascript
 
-{
-  "pronomes": ["Ele"],
 
-  "sobre_mim": {
+**Pronomes**: Ele
 
-"descricao": "Sou Analista de Sistemas com experiência em análise de dados, suporte técnico e automação de processos.
-Minha especialidade é o desenvolvimento de soluções eficientes e inovadoras por meio da administração de bancos de dados como SQL e MongoDB (3T),
- além de ferramentas como Postman, Notepad++, Visual Studio Code e soluções de Robotic Process Automation (RPA).",
+## Sobre Mim
 
-"expertise": "Tenho expertise na automação de testes, utilizando Robot Framework e SeleniumLibrary, com foco na garantia de qualidade
-e na eficiência operacional dos sistemas. Além disso, sou habilidoso na gestão de fluxos de trabalho e tickets utilizando JIRA Service Manager,
- o que me permite otimizar o processo de atendimento e resolução de demandas.",
+Atualmente, sou **Analista de Sistemas**, especializado em analisar e resolver problemas técnicos, além de desenvolver e gerenciar bancos de dados **SQL** e **MongoDB**. Também gerencio incidentes via **JIRA**, garantindo o cumprimento de prazos e padrões de qualidade. Minha colaboração com equipes de desenvolvimento visa transformar demandas em soluções eficazes e inovadoras.
 
-"certificacao": "Certificado em Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23), estou constantemente aprimorando minhas habilidades técnicas
- e estratégicas para fornecer soluções ágeis e alinhadas aos objetivos de negócios.",
+Minha especialidade é o desenvolvimento de soluções eficientes e inovadoras por meio da administração de bancos de dados como **SQL** e **MongoDB (3T)**. Além disso, utilizo ferramentas como **Postman**, **Notepad++**, **Visual Studio Code** e soluções de **Robotic Process Automation (RPA)** para otimizar processos e resultados.
 
-"abordagem": "Com uma abordagem orientada à melhoria contínua e à excelência operacional, busco transformar desafios técnicos em oportunidades para inovação e crescimento."
-  },
+## Expertise
 
-  "tecnologias_e_ferramentas": [
-    "SQL", "XML", "MongoDB (3T)", "Postman", "Notepad++", "Visual Studio Code", "RPA", "R", "JIRA Service Manager", "Robot Framework", "SeleniumLibrary"
-  ],
+Tenho expertise na automação de testes, utilizando **Robot Framework** e **SeleniumLibrary**, com foco na garantia de qualidade e na eficiência operacional dos sistemas. Além disso, sou habilidoso na gestão de fluxos de trabalho e tickets utilizando **JIRA Service Manager**, o que me permite otimizar o processo de atendimento e resolução de demandas.
 
-  "certificacoes": [
-    "Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)"
-  ],
+## Certificação
 
-  "habilidades_tecnicas": [
-    "Administração de Dados", 
-    "Análise de Logs", 
-    "Automação de Processos (RPA)", 
-    "Modelagem e Estatística com R", 
-    "Gestão de Tickets e Demandas com JIRA Service Manager", 
-    "Automação de Testes com Robot Framework e SeleniumLibrary"
-  ],
+Certificado em **Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)**, estou constantemente aprimorando minhas habilidades técnicas e estratégicas para fornecer soluções ágeis e alinhadas aos objetivos de negócios.
 
-  "habilidades_interpessoais": [
-    "Resolução de Problemas", 
-    "Melhoria Contínua", 
-    "Conduta Ética e Cordial"
-  ],
+## Abordagem
 
-  "foco_atual": [
-    "Aprimoramento em Análise de Sistemas", 
-    "Gestão de Dados", 
-    "Automação de Processos", 
-    "Testes Automatizados"
-  ],
+Com uma abordagem orientada à **melhoria contínua** e à **excelência operacional**, busco transformar desafios técnicos em oportunidades para inovação e crescimento.
 
-  "curiosidade": [
-    "Sou apaixonado por surf e viagens, sempre em busca de novas experiências que ampliem minha perspectiva pessoal e profissional."
-  ],
+---
 
-  "Dados Complementares": {
-    "hora_local": "América do Sul/Brasil",
-    "linguagens_programacao": ["Python", "JavaScript", "R"],
-    "editores": ["Visual Studio Code", "Notepad++"],
-    "sistema_operacional": "Windows"
-  }
-}
+## Tecnologias e Ferramentas
 
+- **SQL**
+- **XML**
+- **MongoDB (3T)**
+- **Postman**
+- **Notepad++**
+- **Visual Studio Code**
+- **RPA**
+- **R**
+- **JIRA Service Manager**
+- **Robot Framework**
+- **SeleniumLibrary**
 
-};
+## Certificações
+
+- **Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)**
+
+## Habilidades Técnicas
+
+- Administração de Dados
+- Análise de Logs
+- Automação de Processos (RPA)
+- Modelagem e Estatística com **R**
+- Gestão de Tickets e Demandas com **JIRA Service Manager**
+- Automação de Testes com **Robot Framework** e **SeleniumLibrary**
+
+## Habilidades Interpessoais
+
+- Resolução de Problemas
+- Melhoria Contínua
+- Conduta Ética e Cordial
+
+## Foco Atual
+
+- Aprimoramento em **Análise de Sistemas**
+- Gestão de Dados
+- Automação de Processos
+- **Testes Automatizados**
+
+## Curiosidade
+
+Sou apaixonado por **surf** e **viagens**, sempre em busca de novas experiências que ampliem minha perspectiva pessoal e profissional.
+
+---
+
+## Dados Complementares
+
+- **Hora Local**: América do Sul/Brasil
+- **Linguagens de Programação**: **Python**, **JavaScript**, **R**
+- **Editores**: **Visual Studio Code**, **Notepad++**
+- **Sistema Operacional**: **Windows**
+
 ```
 <div>
   <a href="https://www.youtube.com/channel/UCsrypf9qhJcwHvY9vZ4g4ng" target="_blank">
