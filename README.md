@@ -8,47 +8,49 @@
 
 ```javascript
 
- Pronomes:{ ["Ele"]
- }
- Sobre mim:
- Atualmente, trabalho como Analista de Service Desk na CVC Brasil,
- onde sou responsável por atender solicitações técnicas de mais de mil franquias,
- realizando testes de aplicações e ambientes para identificar e resolver problemas nos sistemas internos.
- Meu foco é a melhoria contínua e a implementação de soluções práticas para simplificar e dinamizar processos empresariais.
- Comprometido com a excelência, busco não apenas resolver problemas,
- mas também transformar desafios em oportunidades, sempre guiado pela ética e cordialidade.
+ Pronomes: { ["Ele"] }
 
- Front-end: {
- ["HTML5", "CSS3", "JavaScript"],
- },
- Bancos de dados: {
- ["SQLite", "Python"],
- },
- Linguagens, Frameworks, Ferramentas e Habilidades:{
- ["Robot Framework", "Visual Studio Code", "SQL", "HTML5", "CSS3", "JavaScript", "XML"]
- },
- Habilidades Interpessoais: {
- ["Resolução de problemas", "Melhoria contínua", "Conduta ética e cordia"]
- }
- Foco atual: {
- ["Análise de Sistemas e Java"]
- Curiosidade: {
- ["Sou apaixonado pelo surf, e por viagens"]
- 
-🕑︎ Hora local: [America do Sul/Brasil]
+Sobre mim:  
+Atualmente, trabalho como Analista de Sistemas, com foco em  análise de dados e integração entre sistemas.  
+Tenho experiência em banco de dados SQL e MongoDB (3T), além de trabalhar com ferramentas como Postman, Notepad++ e Visual Studio Code.  
+Com um conhecimento amplo na área de suporte e análise de dados, busco constantemente melhorar processos e implementar soluções práticas para dinamizar fluxos empresariais.  
+Sou certificado em Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23), o que reforça minha capacidade técnica em gestão de dados.  
+Guiado pela ética e cordialidade, transformo desafios complexos em oportunidades de inovação e melhoria contínua.  
 
-💬 Linguagens de programação: 
-[Python]                   20 hrs 30 mins      ████████████░░░░░░░░░░░░░   48.75% 
-[JavaScript]               4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   10.43% 
-[HTML]                     8 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   21.24%
-[CSS]                      8 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   19.58%
+Tecnologias e Ferramentas: { 
+  ["SQL", "XML", "MongoDB (3T)", "Postman", "Notepad++", "VS Code"] 
+}
 
-🔥 Editors: 
-[VSCode]                   24 hrs 7 mins       █████████████░░░░░░░░░░░░   80.94 % 
-[Jupter/Anaconda]          5 hrs 41 mins       ████████████░░░░░░░░░░░░░   19.06 % 
+Certificações: { 
+  ["Oracle Cloud Data Management 2023 Foundations Associate (1Z0-1105-23)"] 
+}
+
+Habilidades Técnicas: { 
+  ["Administração de Dados", "Análise de Logs", "Automação de Processos"] 
+}
+
+Habilidades Interpessoais: { 
+  ["Resolução de Problemas", "Melhoria Contínua", "Conduta Ética e Cordial"] 
+}
+
+Foco Atual: { 
+  ["Aprimoramento em Análise de Sistemas e Gestão de Dados"] 
+}
+
+Curiosidade: { 
+  ["Sou apaixonado por surf e viagens, sempre em busca de novas experiências."] 
+}
+
+🕑 Hora local: [América do Sul/Brasil]
+
+💬 Linguagens de Programação: 
+[Python]; [JavaScript]
+
+🔥 Editores: 
+[VS Code]; [Notepad++]
 
 💻 Operating System: 
-[Windowns]                 26 hrs 49 mins      █████████████████████████   100 %
+[Windows]              
 };
 ```
 <div>
