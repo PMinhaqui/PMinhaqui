@@ -116,7 +116,7 @@ Nas horas vagas, sou apaixonado por **surf** e **viagens** , sempre em busca de 
 ##  Conecte-se Comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pminhaqui/" target="_blank">
+  <a href="https://www.linkedin.com/in/philipe-minhaqui/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:pminhaqui@gmail.com">
