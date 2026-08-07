@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi,+eu+sou+o+Philipe!+👋;Analista+de+Dados+e+Sistemas;+8%2B+Anos+de+Experi%C3%AAncia+em+TI;Especialista+em+SQL,+PL%2FSQL+e+MongoDB;Root+Cause+Analysis+(RCA)+%26+APIs;Bem-vindo(a)+ao+meu+perfil!&center=true&size=25&width=550&height=50&color=36BCF7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Oi,+eu+sou+o+Philipe!+;Analista+de+Dados+e+Sistemas;+8%2B+Anos+de+Experi%C3%AAncia+em+TI;Especialista+em+SQL,+PL%2FSQL+e+MongoDB;Root+Cause+Analysis+(RCA)+%26+APIs;Bem-vindo(a)+ao+meu+perfil!&center=true&size=25&width=550&height=50&color=36BCF7" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -17,17 +17,17 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Analista de Dados e Sistemas com **mais de 8 anos de experiência no mercado de tecnologia**, especializado em **Análise e Governança de Dados, Qualidade da Informação, Integração de Sistemas Corporativos Críticos** e **Investigação de Causa Raiz (Root Cause Analysis - RCA)**.
 
 Com formação acadêmica em **Negócios Internacionais e Comércio Exterior**, uno visão comercial/estratégica a uma forte capacidade analítica e técnica para investigar incidentes complexos, auditando dados e garantindo a estabilidade operacional de sistemas de alta disponibilidade.
 
-Nas horas vagas, sou apaixonado por **surf** e **viagens** 🏄‍♂️✈️, sempre em busca de novas experiências que ampliem minha perspectiva pessoal e profissional.
+Nas horas vagas, sou apaixonado por **surf** e **viagens** , sempre em busca de novas experiências que ampliem minha perspectiva pessoal e profissional.
 
 ---
 
-## 🛠️ Tecnologias & Habilidades Técnicas
+## Tecnologias & Habilidades Técnicas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -37,6 +37,7 @@ Nas horas vagas, sou apaixonado por **surf** e **viagens** 🏄‍♂️✈️, 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
 <br>
@@ -52,7 +53,7 @@ Nas horas vagas, sou apaixonado por **surf** e **viagens** 🏄‍♂️✈️, 
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 ### **CVC Corp**
 
@@ -70,26 +71,26 @@ Nas horas vagas, sou apaixonado por **surf** e **viagens** 🏄‍♂️✈️, 
 
 ---
 
-## 📜 Certificações & Cursos
+##  Certificações & Cursos
 
-- ☁️ **Oracle Cloud Data Management 2023 Foundations Associate** *(1Z0-1105-23)* — Oracle
-- 🗄️ **SQL Avançado para Engenharia e Análise de Dados** *(Consultas Complexas, Otimização de Queries, Triggers)*
-- 🤖 **Automação de Testes com Robot Framework**
-- 🧪 **Testes Automatizados WEB e API** *(Selenium, Requests, BDD)*
-- 📦 **XML e Estruturas de Dados para Integrações Sistêmicas** *(XML Crash Course)*
+-  **Oracle Cloud Data Management 2023 Foundations Associate** *(1Z0-1105-23)* — Oracle
+-  **SQL Avançado para Engenharia e Análise de Dados** *(Consultas Complexas, Otimização de Queries, Triggers)*
+-  **Automação de Testes com Robot Framework**
+-  **Testes Automatizados WEB e API** *(Selenium, Requests, BDD)*
+-  **XML e Estruturas de Dados para Integrações Sistêmicas** *(XML Crash Course)*
 
 ---
 
-## 🎓 Formação Acadêmica & Idiomas
+##  Formação Acadêmica & Idiomas
 
-- 🎓 **Tecnólogo em Negócios Internacionais e Comércio Exterior** — *Universidade Anhembi Morumbi (2018 – 2020)*
-- 🌐 **Idiomas:**
+-  **Tecnólogo em Negócios Internacionais e Comércio Exterior** — *Universidade Anhembi Morumbi (2018 – 2020)*
+-  **Idiomas:**
   - **Inglês Técnico Avançado:** Leitura e interpretação fluida de logs, documentação de APIs e arquitetura de sistemas.
   - **Português:** Nativo.
 
 ---
 
-## 📈 Estatísticas & Atividades no GitHub
+##  Estatísticas & Atividades no GitHub
 
 <div align="center">
   <picture>
@@ -112,7 +113,7 @@ Nas horas vagas, sou apaixonado por **surf** e **viagens** 🏄‍♂️✈️, 
 
 ---
 
-## 📫 Conecte-se Comigo
+##  Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pminhaqui/" target="_blank">
@@ -129,5 +130,5 @@ Nas horas vagas, sou apaixonado por **surf** e **viagens** 🏄‍♂️✈️, 
 <br>
 
 <p align="center">
-  <i>💡 "Unindo análise investigativa de dados, automação e visão de negócios para criar sistemas resilientes."</i>
+  <i> "Unindo análise investigativa de dados, automação e visão de negócios para criar sistemas resilientes."</i>
 </p>
